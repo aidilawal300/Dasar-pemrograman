@@ -1,0 +1,4 @@
+panjang = int(input("panjang adalah : "))
+lebar = int(input('lebar adalah : ' )) 
+luas = panjang * lebar
+print('luas persegi panjangnya adalah = ',luas)
