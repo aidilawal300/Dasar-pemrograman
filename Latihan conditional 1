@@ -1,0 +1,6 @@
+# latihan conditional 1
+late = False 
+if late :
+	print('aku akan pergi ke ruang guru untuk minta izin masuk!')
+else:
+	print('tidak akan pergi ke ruanh guru untuk minta izin...')
