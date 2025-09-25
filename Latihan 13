@@ -1,0 +1,7 @@
+# contoh dasar f-string
+nama = "aidil"
+umur = 16
+tinggi = 166.5
+
+# formatting sederhana
+print(f"nama: {nama}, umur: {umur}, tinggi: {tinggi} cm")
